@@ -26,6 +26,7 @@ Fecha de Búsqueda: [fecha actual]
 | texto25.txt | Ngba-85235 |
 
 Números encontrados: 2
+
 Duración de la búsqueda: 1 segundos
 
 *****
