@@ -16,7 +16,8 @@ Por ejemplo: Nryu-12365
 
 La información resultante de la búsqueda que se presentará en pantalla es forma de listado en formato de tabla, el cúal respeta el siguiente formato de ejemplo:
 
-----------------------------------------------------
+*****
+
 Fecha de Búsqueda: [fecha actual]
 
 | ARCHIVO | Número de Serie |
@@ -26,7 +27,8 @@ Fecha de Búsqueda: [fecha actual]
 
 Números encontrados: 2
 Duración de la búsqueda: 1 segundos
-----------------------------------------------------
+
+*****
 
 IMPORTANTE
 
