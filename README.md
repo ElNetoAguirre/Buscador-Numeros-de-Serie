@@ -33,4 +33,4 @@ Duración de la búsqueda: 1 segundos
 
 IMPORTANTE
 
-* La "Duración de búsqueda" está redondeada hacia arriba.
+* La "Duración de la búsqueda" está redondeada hacia arriba.
