@@ -6,7 +6,7 @@
 
 Es un proyecto de consola, el cual te permite buscar números de serie que cumplan un determinado formato, dentro de un arbol de carpetas. Busca en todos los archivos y subcarpetas de un directorio determinado, y va a buscar cualquier string que coincida con un patrón de número de serie, sabiendo que no puede haber más de un número de serie por archivo.
 
-Para lograrlo vas a usar el módulo os para abrir e iterear por el directorio, y las expresiones regulares para encontrar el formato de número de serie correcto.
+Para lograrlo se usa el módulo os para abrir e iterear por el directorio, y las expresiones regulares para encontrar el formato de número de serie correcto.
 
 En éste caso, la condición del formato que deben cumplir dichos números de serie es:
 
